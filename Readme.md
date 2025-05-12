@@ -114,3 +114,4 @@ value
 
 * Разработчик: [Евгений Жаров](https://github.com/EvgeniyZharov)
 * По вопросам: `eezharov@edu.hse.ru`
+* Файл для десктопного запуска: [Ссылка на Гугл Диск с .exe-файлом](https://drive.google.com/file/d/1BKm3uOMsK9q3DOpPHZRVnLtdwLCr4rIV/view?usp=drive_link)
